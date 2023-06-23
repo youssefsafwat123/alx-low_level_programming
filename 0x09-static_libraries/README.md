@@ -1,0 +1,2 @@
+Project
+C - Static libraries
